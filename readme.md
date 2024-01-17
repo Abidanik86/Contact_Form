@@ -1,0 +1,5 @@
+Hey friends, today in this blog you’ll learn how to create a Working Contact Form in PHP. I’ll use HTML CSS JavaScript MySql & PHP to create this working contact form. In the earlier blog, I have shared how to send email using PHP from Localhost and it’s a time to create a contact form in PHP.
+
+Contact Form is an important element on a page that allows users to communicate with the website owner. This contact form has some input fields for filling in name, email address, subject, message, etc. You can add or remove fields according to your site requirements.
+
+In this project [Contact Form in PHP], as you can in the image preview, there is a contact form with a heading, input fields, button, and status text. This text is dynamic means this text change according to the form status and informs the user about their message is sending, sent, or failed. This contact form is fully validated means the user can’t send a message without entering a valid email address and message. 
